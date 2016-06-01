@@ -1,6 +1,12 @@
 # Radial Effect
 Application to show the surface reaction animation using kony animations.
 
+**What is Radial Reaction ?
+Connect user input to screen reactions by using touch ripples to both indicate the point of touch, and to confirm that touch input was received. For touch or mouse, this occurs at the point of contact.
+
+Screen reactions occurring near the point of touch should occur sooner than reactions further away.
+https://www.google.com/design/spec/motion/choreography.html#choreography-radial-reaction
+
 
 **To Run This App for Kony Visualizer Enterprise:**
 
