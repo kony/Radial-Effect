@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "30%"
+        "value": "29%"
     },
     "_margin_": [
         0,
@@ -14,16 +14,16 @@
         0
     ],
     "_padding_": [
-        0,
-        0,
-        0,
-        0
+        5,
+        5,
+        5,
+        5
     ],
     "_skin_": "s80ddff39eed4ff5bb71ff0e248f5294",
     "_src_": "birds.png",
     "_width_": {
         "type": "string",
-        "value": "50%"
+        "value": "48%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -49,6 +49,7 @@
     "isvisible": true,
     "kuid": "47596c835243400eb3d131b36448511a",
     "name": "kony.ui.Image2",
+    "paddinginpixel": false,
     "parent": "frm1",
     "pf": "frm1",
     "srcType": 1,

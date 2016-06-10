@@ -5,7 +5,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "30%"
+        "value": "29%"
     },
     "_margin_": [
         0,
@@ -23,7 +23,7 @@
     "_src_": "water1.png",
     "_width_": {
         "type": "string",
-        "value": "50%"
+        "value": "48%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -32,7 +32,7 @@
     },
     "centery": {
         "type": "string",
-        "value": "55%"
+        "value": "55.02%"
     },
     "containerweight": 100,
     "context": {
