@@ -36,7 +36,8 @@
         "value": "5%"
     },
     "children": [
-        "hamburgerMenu"
+        "hamburgerMenu",
+        "instruction"
     ],
     "clipbounds": true,
     "containerweight": 100,
