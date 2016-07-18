@@ -45,3 +45,4 @@ Cloud :
 # Supported platforms for Kony Visualizer Enterprise and Kony Visualizer
 **Mobile**
  * Android
+ * Iphone
