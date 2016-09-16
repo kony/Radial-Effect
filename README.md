@@ -46,3 +46,5 @@ Cloud :
 **Mobile**
  * Android
  * Iphone
+ 
+Certified4KonyCommunity7.1.1 
